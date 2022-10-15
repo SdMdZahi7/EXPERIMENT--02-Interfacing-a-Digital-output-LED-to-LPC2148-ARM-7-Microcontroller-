@@ -142,6 +142,8 @@ int main()
 ## Output screen shots :
 ## LED ON:
 ![pm exp 2](https://user-images.githubusercontent.com/94187572/195999026-2adc582d-1c3a-4b77-b097-17effe28e6bf.jpg)
+## CIRCUIT DIAGRAM:
+![pm exp 2 1](https://user-images.githubusercontent.com/94187572/195999431-38133fc3-5121-440b-bc89-c0b0e61f202e.png)
 
  
 ## Result :
