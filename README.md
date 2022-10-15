@@ -140,6 +140,8 @@ int main()
 ~~~
 
 ## Output screen shots :
+![pm exp 2](https://user-images.githubusercontent.com/94187572/195999026-2adc582d-1c3a-4b77-b097-17effe28e6bf.jpg)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
